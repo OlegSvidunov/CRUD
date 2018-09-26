@@ -1,4 +1,4 @@
-Datebase script: create_db.sql
+Script to fill datebase: create_db.sql
 
 DB-name: test
 
