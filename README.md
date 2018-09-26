@@ -1,11 +1,11 @@
-Скрипт для создания и наполнения БД: create_db.sql
+Datebase script: create_db.sql
 
-Название БД: test
+DB-name: test
 
-Таблица: users
+DB-tabble: users
 
-Имя пользователя: root
+Username: root
 
-Пароль: root
+Password: root
 
 ![screenshot](sample.png)
